@@ -1,6 +1,6 @@
 # Practica-8
 
-## CODIGO
+## CÓDIGO
 ```
 #include <Arduino.h>
 
